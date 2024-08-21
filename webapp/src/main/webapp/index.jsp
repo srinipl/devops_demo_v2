@@ -2,4 +2,4 @@
 </p>
 <h1>Welcome to the Azure Devops Demo Home Page !!</h1>
 
-<h2> Updated during demo</h2>
+<h2> Updated git cred</h2>
